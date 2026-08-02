@@ -1,5 +1,5 @@
 /* Service worker de Hawkins Révisions — engendré par scripts/paquet-unique.ts. */
-const CACHE = 'hawkins-a8c73607feb7'
+const CACHE = 'hawkins-b5c280bd3b1f'
 const RESSOURCES = [
   "./index.html",
   "./manifest.webmanifest",
